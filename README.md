@@ -1,2 +1,2 @@
 # Yakuza 0 Legend AutoHotKey Script
- Just a simple AutoHotKey script I made to automate purchasing the Legend tree in Yakuza 0. Was inspired by another script I found but was broken when I tried it so I fixed it up and tidied it up a bit.
+ Just a simple AutoHotKey script I made to automate purchasing the Legend tree in Yakuza 0. Was inspired by another script I found but was broken when I tried it so I fixed it up and tidied it up a bit. Start on the center node when you activate the macro, and press F11 to reload the macro (and cancel it) at any time. Left it running for over 8 hours while I slept and it was still running fine, though it got desync'd somehow and was purchasing nodes in a different order, but again it was still working.
